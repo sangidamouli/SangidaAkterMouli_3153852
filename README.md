@@ -25,5 +25,6 @@ The project's goal is to build a Python program where a user can guess a number 
 
 
 # Setting up the environment
-For writing the code we have used VS code as IDE. 
+For this project i have downloaded and installed python 3.8.2 in my laptop. I used Visual studio code as IDE. A new repository is created in github for this project named "SangidaAkterMouli_3153852" as public including a README.md file. The python code for the project is commited in the repository.
+
 
