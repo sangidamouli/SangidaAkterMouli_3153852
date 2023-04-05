@@ -13,9 +13,11 @@ The project's goal is to build a Python program where a user can guess a number 
 
 - To reach the goal of the project Random module is used to generate a random number between 1 and hundred 100.
 
-- I have created a function named ''rand'' and used randint() method, which outputs a random number between two given numbers. The method randint() takes two parameters: the starting and ending numbers (inclusive).
+- I have created a function named "rand" and used randint() method, which outputs a random number between two given numbers. The method randint() takes two parameters: the starting and ending numbers (inclusive).
 
-- To check the conditions if Guessed number matched the random number while the loop is used. While look can execute set of statements as long as a condition is true.
+- To check the conditions if Guessed number matched the random number while the loop is used. While loop can execute set of statements as long as a condition is true.
+
+- I have used two variables "attempts" and "guess". The initial input from the user is stored in "guess" variable and the number of tries for guess are incremented in "attempts" variable
 
 - I kept the sanity check option for empty inputs, if there is no input from the user the loop will stop the current iteration and would move to the next. [all the inputs would be taken as integer]
 
